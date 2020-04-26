@@ -1,4 +1,6 @@
 MIT_791J_foundations_computational_and_systems_biology/2.[[:space:]]Local[[:space:]]Alignment[[:space:]](BLAST)[[:space:]]and[[:space:]]Statistics.mp4 filter=lfs diff=lfs merge=lfs -text
+MIT_791J_foundations_computational_and_systems_biology/*.zip filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
 *.mp4 filter=lfs diff=lfs merge=lfs -text
 **.mp4 filter=lfs diff=lfs merge=lfs -text
 **.zip filter=lfs diff=lfs merge=lfs -text
